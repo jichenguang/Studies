@@ -3,8 +3,11 @@ package com.test.day03.Animal;
 /**
  * Created by JiChenGuang on 16/3/19.
  */
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 public class subAnimal extends Animal{
 
         private String name;
